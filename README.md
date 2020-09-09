@@ -1,4 +1,6 @@
 ### Hi there 👋
+<br>
+<br>
 
 <!--
 **victorbadaro/victorbadaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Badaró-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-badar%C3%B3/)](https://www.linkedin.com/in/victor-badar%C3%B3/)
+[![Gmail Badge](https://img.shields.io/badge/-victor.badaro92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.badaro92@gmail.com)](mailto:victor.badaro92@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://bit.ly/2ZjKtAI)](https://bit.ly/2ZjKtAI)
