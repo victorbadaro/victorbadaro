@@ -1,10 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-<br>
-<br>
+<br/>
+<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbadaro&count_private=true&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbadaro&count_private=true&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadaro&layout=compact&theme=radical" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadaro&layout=compact&theme=radical)
+<br/>
+<br/>
 
 <!--
 **victorbadaro/victorbadaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
