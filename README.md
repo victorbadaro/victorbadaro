@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hi there 👋
 Full Stack developer (Frontend focused) and new technologies lover. The following technologies are part of my day to day usage (in different levels): Node JS, Java, Spring Boot, PostgreSQL, HTML, CSS, Javascript, Typescript, jQuery, React JS, React Native, Next JS and Git/Github.
 <br/>
 <br/>
