@@ -8,6 +8,10 @@ Full Stack developer (Frontend focused) and new technologies lover. The followin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbadaro&layout=compact&theme=radical" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorbadaro&theme=radical&border_radius=4.6" alt="GitHub Streak" /></a>
+</div>
+
 <br/>
 <br/>
 
